@@ -1,7 +1,7 @@
 ## Installation
 
 - Open [Codespace](https://github.com/codespaces)
-- Enter this command
+- Entecngff r this command
 ```bash
 wget https://raw.githubusercontent.com/dxzenith/Sonic-Tx-Bot/main/sonic.sh && chmod +x sonic.sh && ./sonic.sh
 ```
